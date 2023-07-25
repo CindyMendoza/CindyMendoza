@@ -10,8 +10,10 @@
 👯 Busco colaborar en proyectos de código abierto relacionados con inteligencia artificial y visualización de datos.
 🤔 Necesito ayuda para optimizar el rendimiento del código e implementar soluciones basadas en la nube.
 💬 Pregúntame sobre desarrollo front-end, programación en Python y mejores prácticas en ingeniería de software.
-📫 Cómo contactarme: Siéntete libre de escribirme un correo electrónico a mendozaic17@gmail.com.
-😄 Pronombres: Ella/ella
+📫 Cómo contactarme:
+   Siéntete libre de escribirme un correo electrónico a mendozaic17@gmail.com.
+😄 Pronombres:
+   Ella/ella
 ⚡ Dato curioso:
    ¡Tengo un perro llamado Kimbo a quien le encanta dormir bajo mi silla mientras trabajo en mi computadora! 🐕
 

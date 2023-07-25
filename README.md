@@ -1,3 +1,4 @@
+### Hi there 👋 I'm Cindy
 ```text
 
 Soy de Perú, una apasionada de la tecnología y del aprendizaje continuo. Desde el año 2005, tomé la decisión de sumergirme en el emocionante mundo de la Tecnología de la Información (TI). Desde entonces, mi curiosidad y entusiasmo por la informática y el desarrollo web no han dejado de crecer.

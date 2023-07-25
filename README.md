@@ -1,4 +1,5 @@
 ```text
+___________________________________________________
 Soy de Perú, una apasionada de la tecnología y del aprendizaje continuo. Desde el año 2005, tomé la decisión de sumergirme en el emocionante mundo de la Tecnología de la Información (TI). Desde entonces, mi curiosidad y entusiasmo por la informática y el desarrollo web no han dejado de crecer.
 
 En el año 2017, di un paso importante en mi carrera al adentrarme en el área de desarrollo web. Desde entonces, he disfrutado cada proyecto que ha desafiado mi creatividad y habilidades técnicas. Me considero afortunada por haber tenido la oportunidad de ejercer como Front-End y Full-Stack Developer, lo que me ha permitido trabajar en múltiples facetas del desarrollo web y adquirir una visión integral de los proyectos.

@@ -6,7 +6,14 @@
 - 📫 How to reach me: Feel free to contact me via email at [your email address].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a pet dog named Kimbo who loves to nap below my chair while I work on my computer! 🐕
-
+````bash
+> 🔭 I’m currently working on exciting web development projects to enhance user experiences.
+> linkedin: anishsachdeva1998
+> instagram: anish.sachdeva_
+> github: anishLearnsToCode
+> medium: @anishsachdeva
+> mailto: anish_ [at] outlook.com
+````
  <a href="https://dev.to/anhello">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
   </a>

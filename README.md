@@ -6,6 +6,15 @@
 - 📫 How to reach me: Feel free to contact me via email at [your email address].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a pet dog named Kimbo who loves to nap below my chair while I work on my computer! 🐕
+
+
+  ```text
+🔭 I’m currently working on exciting web development projects to enhance user experiences.
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
 ````bash
 > 🔭 I’m currently working on exciting web development projects to enhance user experiences.
 > linkedin: anishsachdeva1998

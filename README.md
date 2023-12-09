@@ -16,8 +16,17 @@
    Disfruto cocinando y descubriendo nuevos sabores 
 
 ```
-
-<p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact" />
+</picture>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=CindyMendoza&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github"
@@ -29,21 +38,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=CindyMendoza&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
 </picture>
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact) 
-</p>
-
+ 
 <br>
 <a href="https://www.linkedin.com/in/mendozacindy/">
  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cindy Mendoza Ibarra's LinkedIn Profile" height="30" width="30">

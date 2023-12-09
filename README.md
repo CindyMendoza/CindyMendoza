@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CindyMendoza&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=17&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=15&layout=compact) 
 </p>
 
 <br>

@@ -29,8 +29,19 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=CindyMendoza&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
 </picture>
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=15&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=10&layout=compact) 
 </p>
 
 <br>

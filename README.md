@@ -35,4 +35,4 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza)](https://github.com/CindyMendoza/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=true&&langs_count=15)

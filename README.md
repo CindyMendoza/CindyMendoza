@@ -30,9 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CindyMendoza&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=1&layout=compact)
+<br>
 <a href="https://www.linkedin.com/in/mendozacindy/">
  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cindy Mendoza Ibarra's LinkedIn Profile" height="30" width="30">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza)](https://github.com/CindyMendoza/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyMendoza&hide_progress=false&&langs_count=1&layout=compact)

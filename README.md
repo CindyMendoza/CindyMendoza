@@ -12,7 +12,7 @@
 🤔 Necesito ayuda para optimizar el rendimiento del código e implementar soluciones basadas en la nube.
 💬 Pregúntame sobre desarrollo front-end, programación y mejores prácticas en ingeniería de software.
 📫 Cómo contactarme:
-   Siéntete libre de escribirme un correo electrónico a mendozaic17@gmail.com.
+   Siéntete libre de escribirme un correo electrónico a mendoza.ibarra.cindy@gmail.com.
 😄 Pronombres:
    Ella/ella
 ⚡ Dato curioso:

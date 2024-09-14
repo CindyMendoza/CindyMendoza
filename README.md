@@ -1,14 +1,9 @@
 
 ### 👋 ¡Hola! Soy Cindy
 
-Soy desarrolladora de software con experiencia en **Angular**, **TypeScript** y **JavaScript**. Me apasiona crear aplicaciones web eficientes y bien estructuradas. Disfruto aprender nuevas tecnologías y compartir conocimientos con la comunidad.
+Soy una desarrolladora web apasionada por crear soluciones digitales innovadoras, he trabajado en proyectos que abarcan desde plataformas informativas hasta sistemas personalizados. Mi trayectoria se ha caracterizado por una constante adaptación a nuevas tecnologías y por la búsqueda de soluciones eficientes y escalables.
 
-Actualmente estoy trabajando en proyectos relacionados con:
-
-- Desarrollo de aplicaciones web con **Angular**.
-- Manipulación y gestión de datos utilizando **RxJS**, **NgRx**.
-- Creación de interfaces de usuario intuitivas con **Material Design**.
-
+Actualmente estoy trabajando en proyectos con **Angular**, **Ngrx** y **Node.js**:
 
 ### 📁 Portafolio
 

@@ -12,6 +12,8 @@ Puedes ver algunos de mis proyectos a continuación:
 - **[Proyecto Newton MUN](https://cindymendoza.github.io/newton-mun)**
 - **[Proyecto Natalia Tamariz](https://cindymendoza.github.io/ntamariz.com/)**
 
+- **<a href="https://cindymendoza.github.io/newton-mun" target="_blank">Proyecto Newton MUN</a>**
+
 - **<[a href="https://cindymendoza.github.io/newton-mun" target="_blank">Newton MUN Project</a>](https://cindymendoza.github.io/newton-mun)**
 - **<[a href="https://cindymendoza.github.io/ntamariz.com/" target="_blank">Natalia Tamariz Project</a>](https://cindymendoza.github.io/ntamariz.com/)**
 

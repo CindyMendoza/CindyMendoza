@@ -1,20 +1,16 @@
 
-### 👋 ¡Hola! Soy Cindy
+### 👋 Hi! I'm Cindy
 
-Soy una desarrolladora web apasionada por crear soluciones digitales innovadoras, he trabajado en proyectos que abarcan desde plataformas informativas hasta sistemas personalizados. Mi trayectoria se ha caracterizado por una constante adaptación a nuevas tecnologías y por la búsqueda de soluciones eficientes y escalables.
+I'm a web developer passionate about creating innovative digital solutions. I’ve worked on projects ranging from informative platforms to customized systems. My journey has been marked by constant adaptation to new technologies and a focus on seeking efficient and scalable solutions.
 
-Actualmente estoy trabajando en proyectos con **Angular**, **Ngrx** y **Node.js**:
+I’m currently working on projects with **Angular**, **Ngrx** y **Node.js**:
 
-### 📁 Portafolio
+### 📁 Portfolio
 
-Puedes ver algunos de mis proyectos a continuación:
+You can see some of my projects below:
 
-- **[Proyecto Newton MUN](https://cindymendoza.github.io/newton-mun)**
-- **[Proyecto Natalia Tamariz](https://cindymendoza.github.io/ntamariz.com/)**
+- **[Newton MUN Project](https://cindymendoza.github.io/newton-mun)**
+- **[Natalia Tamariz Project](https://cindymendoza.github.io/ntamariz.com/)**
 
-- **<a href="https://cindymendoza.github.io/newton-mun" target="_blank">Proyecto Newton MUN</a>**
 
-- **<[a href="https://cindymendoza.github.io/newton-mun" target="_blank">Newton MUN Project</a>](https://cindymendoza.github.io/newton-mun)**
-- **<[a href="https://cindymendoza.github.io/ntamariz.com/" target="_blank">Natalia Tamariz Project</a>](https://cindymendoza.github.io/ntamariz.com/)**
-
-📫 **Contáctame**: [mendoza.ibarra.cindy@gmail.com](mendoza.ibarra.cindy@gmail.com)
+📫 **Contact me**: [mendoza.ibarra.cindy@gmail.com](mendoza.ibarra.cindy@gmail.com)

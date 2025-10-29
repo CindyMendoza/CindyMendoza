@@ -1,9 +1,8 @@
 
 ### 👋 Hi! I'm Cindy
 
-I'm a web developer passionate about creating innovative digital solutions. I’ve worked on projects ranging from informative platforms to customized systems. My journey has been marked by constant adaptation to new technologies and a focus on seeking efficient and scalable solutions.
-
-I’m currently working on projects with **Angular**, **Ngrx** y **Node.js**:
+I’m a web developer who enjoys the entire process of building applications — learning, creating, and solving problems collaboratively.
+I’ve worked with both monolithic and microservices architectures, and I’m always exploring new tools and technologies to grow as a developer.
 
 ### 📁 Portfolio
 
